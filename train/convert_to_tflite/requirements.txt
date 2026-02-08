@@ -1,0 +1,11 @@
+onnx2tf
+onnx-graphsurgeon
+ai_edge_litert 
+sng4onnx
+onnx==1.15.0 
+ml-dtypes==0.3.2
+tensorflow
+tf_keras
+tf_keras
+ultralytics
+numpy==1.26.4

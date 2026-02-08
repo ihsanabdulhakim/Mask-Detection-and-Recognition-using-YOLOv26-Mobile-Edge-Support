@@ -1,0 +1,5 @@
+tensorflow
+ultralytics
+opencv-python
+matplotlib
+pillow
