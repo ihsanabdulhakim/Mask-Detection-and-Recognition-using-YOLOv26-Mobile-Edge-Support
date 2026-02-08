@@ -11,6 +11,8 @@ Make sure you already secure by following this particular environment:
 
 run ```git clone https://github.com/ihsanabdulhakim/Mask-Detection-and-Recognition-using-YOLOv26-Mobile-Edge-Support.git```
 
+then run this script ```cd .\Mask-Detection-and-Recognition-using-YOLOv26-Mobile-Edge-Support```
+
 already installed environment **python 3.10**
 
 run ```pip install -r requirements.txt```
